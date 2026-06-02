@@ -3,6 +3,7 @@ CHATPILOT
 
 GrammaCrackers stream mod. YouTube live chat votes drive Grandma's character through Baritone while she is away. Built for the 24/7 subathon.
 
+=======
 INSTALL
 -------
 1. Copy chatpilot-<version>.jar to your .minecraft/mods folder.
